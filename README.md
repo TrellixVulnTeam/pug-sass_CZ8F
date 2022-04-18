@@ -19,7 +19,7 @@ yarn pug ./about/index.pug -o ./dist/ -P
 編譯 sass 檔案
 
 ```shell
-yarn sass ./about/index.sass  ./dist/index.sass
+yarn sass ./about/index.sass  ./dist/index.css
 ```
 
 ## Step 2
